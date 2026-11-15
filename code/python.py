@@ -12,7 +12,7 @@ from java.lang import Boolean
 __id__ = "folder_control"
 __name__ = "Folder Control"
 __description__ = "Управление скрытием/отображением папок"
-__version__ = "2.8.0"
+__version__ = "2.8.1"
 __author__ = "@itNotMax - @MaxExteraPlugins"
 __icon__ = "MaxExteraPluginsStickers/14"
 __min_version__ = "12.10.6"

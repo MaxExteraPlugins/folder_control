@@ -28,7 +28,7 @@ Advanced visibility control and management for chat folder tabs.
 ## 📥 Installation
 
 1. Navigate to the [**Releases**](https://github.com/MaxExteraPlugins/folder_control/releases/latest) section.
-2. Download the `folder_control_v2.8.0.plugin` file.
+2. Download the `folder_control_v2.8.1.plugin` file.
 3. Send the file to your Telegram Saved Messages or open it via file manager in exteraGram / AyuGram.
 4. Tap the file in Telegram and choose **"Install plugin"**.
 
